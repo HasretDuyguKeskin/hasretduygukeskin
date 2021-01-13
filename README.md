@@ -1,5 +1,4 @@
 ### Hi there 👋
-👯👯👯
 
 <img src="octocat.gif" width="100">
 
